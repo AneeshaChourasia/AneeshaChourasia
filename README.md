@@ -1,177 +1,182 @@
 # Hi 👋, I'm Aneesha Chourasia
 
-## Software Engineer | Frontend Developer | UI/UX Enthusiast
+### Software Engineer | Frontend Developer | UI/UX Enthusiast
 
-I'm a Software Engineer with experience in developing responsive web applications using **React, Next.js, Tailwind CSS, ERPNext, and Shopify**. I enjoy building clean, user-friendly, and modern web applications while continuously improving my development skills.
+I'm a Frontend Developer focused on building responsive, user-friendly, and modern web applications using **React, Next.js, JavaScript, and Tailwind CSS**.
 
-Currently, I'm strengthening my core web development skills through **Project Comeback 60**, where I build projects and practice coding every day.
+I enjoy turning ideas into clean and interactive web experiences while continuously improving my development skills through real-world projects.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Graduate (2025)
+- 🎓 B.Tech in Computer Science & Engineering — 2025
 - 💼 Former Software Engineer at **Glisten Path LLP**
-- 🌱 Currently learning Advanced HTML, CSS, JavaScript, Git & GitHub
-- 🚀 Building real-world projects through **Project Comeback 60**
-- 🎨 Interested in Frontend Development & UI/UX Design
+- 💻 Experienced with **React, Next.js, Tailwind CSS, ERPNext & Shopify**
+- 🎨 Interested in **Frontend Development & UI/UX Design**
+- 🌱 Currently strengthening **HTML, CSS, JavaScript & Git/GitHub**
+- 🚀 Building projects through my **Project Comeback 60**
 - 🎯 Goal: Become a highly skilled Software Engineer and build impactful web applications
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend Development
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### UI / UX
+### 🎨 UI / UX
 
-- Figma
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Version Control
+### 🔧 Tools & Version Control
 
-- Git
-- GitHub
-- Bitbucket
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
-### Other Technologies
+### ⚙️ Other Technologies
 
-- ERPNext
-- Shopify
-
-### Project Management
-
-- Jira
-- ClickUp
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Software Engineer
+### Software Engineer — Glisten Path LLP
 
-**Glisten Path LLP**  
-📅 Jan 2025 – Oct 2025
+📅 **Jan 2025 – Oct 2025**
 
-- Developed responsive web applications using React, Next.js, and Tailwind CSS.
-- Designed user-friendly interfaces with Figma.
-- Worked on ERPNext and Shopify integrations.
-- Contributed to multiple in-house products including Daksh, Connect App, Payslip, and Vendor Management System (VMS).
-
----
-
-# 🚀 Featured Projects
-
-## 📚 Smart Library Website
-
-A modern library website built using HTML and CSS.
-
-**Status:** 🚧 In Progress
+- Developed responsive web applications using **React, Next.js, and Tailwind CSS**.
+- Built clean and user-friendly interfaces using **Figma**.
+- Worked with **ERPNext and Shopify integrations**.
+- Contributed to multiple production applications including **Daksh, Connect App, Payslip, and Vendor Management System (VMS)**.
+- Collaborated with the team using tools such as **Git, Bitbucket, Jira, and ClickUp**.
 
 ---
 
-## 🐼 Panda Gallery
+## 🚀 Featured Projects
 
-A beginner-friendly HTML project focused on images, accessibility, and folder structure.
+### 📚 Smart Library Website
 
----
+A modern and responsive library website currently being developed as part of my learning journey.
 
-## 🌐 Glisten Path Official Website
+**Tech:** HTML5 • CSS3 • JavaScript
 
-Responsive company website.
-
-**Tech Stack**
-
-- Next.js
-- Tailwind CSS
-- Figma
+🚧 **Status:** In Progress
 
 ---
 
-## 📋 Daksh
+### 🐼 Panda Gallery
 
-Real-time project management platform for students.
+A beginner-friendly HTML project focused on image presentation, accessibility, semantic structure, and organized folder structure.
 
-**Tech Stack**
-
-- React
-- Tailwind CSS
-- Figma
+**Tech:** HTML5 • CSS3
 
 ---
 
-## 🏢 Vendor Management System (VMS)
+### 🌐 Glisten Path Official Website
 
-Admin and Vendor management system with ERP integration.
+A responsive corporate website designed to provide a modern and professional web experience.
 
-**Tech Stack**
-
-- Next.js
-- ERPNext
+**Tech:** Next.js • Tailwind CSS • Figma
 
 ---
 
-# 📚 Currently Learning
+### 📋 Daksh
 
-- Advanced HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Responsive Web Design
+A real-time project management platform designed for students to manage and track their projects.
+
+**Tech:** React.js • Tailwind CSS • Figma
 
 ---
 
-# 🎯 Current Challenge
+### 🏢 Vendor Management System (VMS)
+
+An admin and vendor management system integrated with ERPNext for managing vendor and job-related operations.
+
+**Tech:** Next.js • ERPNext • SQL
+
+---
+
+## 📚 Currently Learning
+
+🌱 **Advanced HTML**  
+🎨 **CSS & Responsive Web Design**  
+⚡ **JavaScript**  
+🔧 **Git & GitHub**  
+💻 **Frontend Development**
+
+---
 
 ## 🚀 Project Comeback 60
 
-A 60-day challenge focused on improving web development skills by learning, building projects, and practicing consistently every day.
+> **60 Days • Learn • Build • Practice • Improve**
+
+Project Comeback 60 is my personal challenge to strengthen my core web development skills through consistent learning, coding practice, and real-world projects.
+
+The goal is simple:
+
+**Learn → Build → Practice → Push to GitHub → Repeat 🚀**
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AneeshaChourasia&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AneeshaChourasia&show_icons=true&theme=tokyonight&hide_border=true" alt="Aneesha's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshaChourasia&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshaChourasia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
----
-
-# 🤝 Connect With Me
-
-📧 Email: aneeshachourasia491@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/aneesha-chourasia/
-
-GitHub  
-https://github.com/AneeshaChourasia
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneeshaChourasia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 🌟 Certifications
+## 🏆 Certifications
 
-- Frontend Development Certification – Xansa IT Solution
-- Internship Completion Certificate – Glisten Path LLP
-
----
-
-# 🎯 Career Objective
-
-To build scalable, user-friendly, and modern web applications while continuously learning new technologies and contributing to impactful software products.
+- 🎓 Frontend Development Certification — Xansa IT Solution
+- 📜 Internship Completion Certificate — Glisten Path LLP
 
 ---
 
-# 💬 Quote
+## 🤝 Connect With Me
 
-> "Consistency beats perfection."
+<p align="left">
+  <a href="https://www.linkedin.com/in/aneesha-chourasia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/AneeshaChourasia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:aneeshachourasia491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+## 💬 Quote
+
+> **"Consistency beats perfection."**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories and follow my journey as I continue to learn, build, and grow. 🚀**
