@@ -76,14 +76,6 @@ A modern and responsive library website currently being developed as part of my 
 
 ---
 
-### 🐼 Panda Gallery
-
-A beginner-friendly HTML project focused on image presentation, accessibility, semantic structure, and organized folder structure.
-
-**Tech:** HTML5 • CSS3
-
----
-
 ### 🌐 Glisten Path Official Website
 
 A responsive corporate website designed to provide a modern and professional web experience.
@@ -127,22 +119,6 @@ Project Comeback 60 is my personal challenge to strengthen my core web developme
 The goal is simple:
 
 **Learn → Build → Practice → Push to GitHub → Repeat 🚀**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AneeshaChourasia&show_icons=true&theme=tokyonight&hide_border=true" alt="Aneesha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshaChourasia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneeshaChourasia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
